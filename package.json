@@ -1,0 +1,13 @@
+{
+  "name": "passport_test",
+  "description": "using passport for login",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.10",
+    "passport": "^0.3.0",
+    "passport-facebook": "^2.0.0"
+  }
+}
